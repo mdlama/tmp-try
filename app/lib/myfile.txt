@@ -1,0 +1,10 @@
+// Section A
+The quick brown fox jumped over the lazy dog.
+
+// Section B
+Lorem ipsum and all that jazz.
+Thu Jan  4 16:23:17 EST 2018
+Thu Jan  4 16:23:32 EST 2018
+Thu Jan  4 16:23:35 EST 2018
+Thu Jan  4 16:23:37 EST 2018
+Thu Jan  4 16:23:40 EST 2018
